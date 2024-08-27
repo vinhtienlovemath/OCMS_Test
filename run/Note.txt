@@ -1,0 +1,1 @@
+Run course_app/templates/Index.html
